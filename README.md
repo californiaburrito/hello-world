@@ -1,2 +1,2 @@
 # hello-world
-dis don't not matter none to nothin
+This is a practice repository for learning how to use the Github website and Git.
