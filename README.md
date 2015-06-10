@@ -1,2 +1,3 @@
 # hello-world
-This is a practice repository for learning how to use the Github website and Git.
+
+I needed to put a completely unironic descreption so here it is. Woah woah ladies, slow down. I'll get to each of you in turn.
